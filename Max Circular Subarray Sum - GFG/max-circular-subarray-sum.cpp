@@ -13,7 +13,7 @@ class Solution{
         
         // your code here
         int max_sum=INT_MIN;
-        int min_sum =0;
+        int min_sum =INT_MAX;
         int maxsum=0;
         int minsum=0;
         int total_sum=0;
